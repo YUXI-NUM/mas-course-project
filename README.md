@@ -28,5 +28,4 @@ communication delays affect convergence. Full writeup in [`MAS_YUXI.pdf`](MAS_YU
 
 ## Requirements
 
-MATLAB/Simulink (built with R202a
-backup kept alongside the main files).
+MATLAB/Simulink (built with R2025a backup kept alongside the main files).
