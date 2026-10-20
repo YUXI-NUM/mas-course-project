@@ -1,0 +1,11 @@
+# Simulink / MATLAB build artifacts
+slprj/
+*.slxc
+*.autosave
+*.asv
+
+# Simulink version-converted backup copies (e.g. simu.slx.r2024b)
+*.slx.r*
+
+# Redundant project archive (contents already tracked as plain files)
+PROJ_YUXI/PROJ_YUXI.zipo
