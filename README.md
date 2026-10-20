@@ -28,5 +28,5 @@ communication delays affect convergence. Full writeup in [`MAS_YUXI.pdf`](MAS_YU
 
 ## Requirements
 
-MATLAB/Simulink (built with R2024b; `simu.slx.r2024b` is a version-converted
+MATLAB/Simulink (built with R202a
 backup kept alongside the main files).
