@@ -1,8 +1,8 @@
-# Multi-Agent Systems Course Project
+# Second-Order Consensus Under Delay
 
-Coursework for a Multi-Agent Systems class: second-order consensus among 5 agents
-in 3D (position + velocity), simulated in Simulink, studying how damping and
-communication delays affect convergence. Full writeup in [`MAS_YUXI.pdf`](MAS_YUXI.pdf).
+Second-order consensus among 5 agents in 3D (position + velocity), simulated
+in Simulink, studying how damping and communication delays affect
+convergence. Full writeup in [`MAS_YUXI.pdf`](MAS_YUXI.pdf).
 
 ## Setup
 
